@@ -18,8 +18,3 @@ Thumbs.db
 
 # Data
 *.csv
-
-# Output plots
-*.png
-*.jpg
-*.jpeg
