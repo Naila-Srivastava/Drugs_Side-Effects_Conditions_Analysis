@@ -1,0 +1,10 @@
+# Required packages to run the Data Analysis on Drugs, Side Effects and Medical Conditions 
+
+- jupyter
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- scikit learn
+- wordcloud
