@@ -1,4 +1,4 @@
-# 💊 Data Analysis on Drugs, Side Effects and Medical Conditions 
+# Data Analysis on Drugs, Side Effects and Medical Conditions 
 
 An end-to-end data science project built using Python and Tableau, leveraging real-world drug data scraped from Drugs.com. The project combines data cleaning, exploratory analysis, visualization, and interactive dashboards to uncover insights about drugs, side effects, usage conditions, user reviews, and safety classifications.
 
