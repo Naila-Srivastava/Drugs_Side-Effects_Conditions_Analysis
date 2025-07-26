@@ -1,19 +1,18 @@
 # Data Analysis on Drugs, Side Effects and Medical Conditions 
 
-An end-to-end data science project built using Python and Tableau, leveraging real-world drug data scraped from Drugs.com. The project combines data cleaning, exploratory analysis, visualization, and interactive dashboards to uncover insights about drugs, side effects, usage conditions, user reviews, and safety classifications.
+An end-to-end data science project built using Python, leveraging real-world drug data scraped from Drugs.com. The project combines data cleaning, exploratory analysis, visualization, and interactive dashboards to uncover insights about drugs, side effects, usage conditions, user reviews, and safety classifications.
 
 ## 🧠 Objectives
 
 - Develop an end-to-end data-driven application focused on drug information, side effects, and medical conditions.
 - Clean and preprocess raw pharmaceutical data with inconsistent and missing values.
 - Perform in-depth exploratory data analysis (EDA) to extract meaningful insights.
-- Build interactive visualizations for dynamic data exploration using Python and Tableau.
+- Build interactive visualizations for dynamic data exploration using Python.
 - Create a user-friendly search tool to look up drugs or diseases with relevant details like side effects, brand names, safety data, and ratings.
 
 ## 🔧 Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn and Scikit-Learn)
-- Tableau Public (for interactive dashboards): [ ] 
 - Jupyter Notebook
 - Git & GitHub (for version control)
 
@@ -95,8 +94,6 @@ Drugs_Side-Effects_Conditions_Analysis/
 │── drugs_cleaned_dataset.csv                                      # Cleaned and preprocessed dataset
 │
 ├── plots/                                                         # All charts and graphs
-├── Tableau Dashboard                                              # Tableau workbook (.twbx file)
-├── Tableau df script.ipynb                                        # Tableau dashboard notebook
 ├── Drugs, side_effects_&_medical_conditions.ipynb                 # Main analysis notebook
 ├── .gitignore
 ├── README.md
